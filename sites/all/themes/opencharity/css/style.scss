@@ -219,7 +219,7 @@ ul.menu{
 #block-views-join-us-hidden-link-block{
   .field-content a{
     display:  none;
-    border: 2px solid $Secondary-color;
+    border: 1px solid $Secondary-color;
     border-radius:  2px;
     color:  $Secondary-color;
     padding: 10px 20px;
@@ -228,7 +228,7 @@ ul.menu{
 
 #block-views-join-us-hidden-link-block{
   .field-content a:hover{
-    border: 2px solid $Fourth-color;
+    border: 1px solid $Fourth-color;
     color:  $Fourth-color;
     background:  $Secondary-color;
   }
@@ -272,7 +272,7 @@ ul.menu{
   .mean-nav {
     float: left;
     width: 100%;
-    margin-top: 3.59rem;
+    margin-top: 54px;
     background: none;
   }
 }

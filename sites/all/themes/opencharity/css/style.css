@@ -136,13 +136,13 @@ ul.menu {
 /*--- hidden join us link --*/
 #block-views-join-us-hidden-link-block .field-content a {
   display: none;
-  border: 2px solid #61c0bd;
+  border: 1px solid #61c0bd;
   border-radius: 2px;
   color: #61c0bd;
   padding: 10px 20px; }
 
 #block-views-join-us-hidden-link-block .field-content a:hover {
-  border: 2px solid white;
+  border: 1px solid white;
   color: white;
   background: #61c0bd; }
 
@@ -169,7 +169,7 @@ ul.menu {
 .mean-container .mean-nav {
   float: left;
   width: 100%;
-  margin-top: 3.59rem;
+  margin-top: 54px;
   background: none; }
 
 .mean-container .mean-nav ul {
