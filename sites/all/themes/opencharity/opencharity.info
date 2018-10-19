@@ -1,0 +1,16 @@
+name = openCharity Theme
+description = A custom theme for the openCharity website.
+core = 7.x
+
+stylesheets[all][] = css/style.css
+
+regions[navigation] =  Navigation
+regions[carousel] = Carousel
+regions[events] = Events
+regions[content] = Content
+regions[get-involved] = Get involved
+regions[mission] = Mission
+regions[members] = Members
+regions[blog] = Blog
+regions[footer] = Footer
+regions[sub-footer] = Sub Footer
